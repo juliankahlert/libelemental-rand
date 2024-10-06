@@ -1,0 +1,27 @@
+{
+  "name": "elemental-rand",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "libelemental-rand is a collection of random number generators and related functions designed to provide consistent and reliable random number generation across multiple programming languages. ",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliankahlert/libelemental-rand.git"
+  },
+  "keywords": [
+    "random",
+    "lcg"
+  ],
+  "author": "Julian Kahlert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliankahlert/libelemental-rand/issues"
+  },
+  "homepage": "https://github.com/juliankahlert/libelemental-rand#readme"
+}
